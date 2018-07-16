@@ -3,9 +3,10 @@ Simple HTML5 game
 I want to make some front end changes to this repository
 
 Deploy Backend Instructions
+
 git repository: http://stash.denovolab.com/projects/ELG/repos/backend/browse
 
-Requrements
+Requirements
 =============
 - php >=5.6
 - composer
